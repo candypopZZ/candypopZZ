@@ -11,3 +11,5 @@ I'm still a complete beginner in this field, but I’m always open to grow, lear
 Reach me via: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anis-daniyah-a84066331/)
 
 ![Anis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=candypopZZ&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=candypopZZ&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
